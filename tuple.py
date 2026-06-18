@@ -1,0 +1,7 @@
+a=(1,False,"tiger",134,"apple",123,"123")
+print(type(a))
+print(a.count("123"))
+print(a.index("123"))
+print(a*3)
+print(12 in (a))
+print(123 in (a))

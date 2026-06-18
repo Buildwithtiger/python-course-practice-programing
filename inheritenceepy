@@ -1,0 +1,13 @@
+class animal:
+    def __init__(self):
+       pass  
+    def show(self):
+        print(f"this is animal class")
+class pets(animal):
+        print(f"this is pets class")  
+class dog(pets):
+    
+    def bark(self):
+        print(f"bark") 
+d=dog()
+d.bark()

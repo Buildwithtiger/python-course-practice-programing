@@ -1,0 +1,12 @@
+name="tiger"
+short=name[3]
+print(short)
+print(name[-4:-2])
+stringg="r0123456789"
+print(stringg[1:7:3])
+print(len(stringg))
+print(stringg.endswith("789"))
+print(stringg.endswith("1789"))
+print(stringg.startswith("789"))
+print(stringg.startswith("0123"))
+print(stringg.capitalize())
