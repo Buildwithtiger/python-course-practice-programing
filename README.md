@@ -38,5 +38,5 @@ The course covers Python from basics to advanced concepts in a single comprehens
 ## 🚀 How to Run the Code
 
 1. Clone this repository:
-   ```bash
+   Happy coding🤩
   
